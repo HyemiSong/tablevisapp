@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/tablevisapp/static/css/main.ed483eb8.css",
-    "main.js": "/tablevisapp/static/js/main.36fc72ef.js",
+    "main.css": "/tablevisapp/static/css/main.72829bf8.css",
+    "main.js": "/tablevisapp/static/js/main.94976093.js",
     "index.html": "/tablevisapp/index.html",
-    "main.ed483eb8.css.map": "/tablevisapp/static/css/main.ed483eb8.css.map",
-    "main.36fc72ef.js.map": "/tablevisapp/static/js/main.36fc72ef.js.map"
+    "main.72829bf8.css.map": "/tablevisapp/static/css/main.72829bf8.css.map",
+    "main.94976093.js.map": "/tablevisapp/static/js/main.94976093.js.map"
   },
   "entrypoints": [
-    "static/css/main.ed483eb8.css",
-    "static/js/main.36fc72ef.js"
+    "static/css/main.72829bf8.css",
+    "static/js/main.94976093.js"
   ]
 }
